@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshay0708/LeetCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/lakshay0708/LeetCODE/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -34,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/lakshay0708/LeetCODE/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/lakshay0708/LeetCODE/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/lakshay0708/LeetCODE/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/lakshay0708/LeetCODE/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
