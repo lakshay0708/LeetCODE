@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/lakshay0708/LeetCODE/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/lakshay0708/LeetCODE/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/lakshay0708/LeetCODE/tree/master/0412-fizz-buzz) |
+| [2390-removing-stars-from-a-string](https://github.com/lakshay0708/LeetCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/lakshay0708/LeetCODE/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/lakshay0708/LeetCODE/tree/master/0412-fizz-buzz) |
+| [2390-removing-stars-from-a-string](https://github.com/lakshay0708/LeetCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/lakshay0708/LeetCODE/tree/master/0176-second-highest-salary) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/lakshay0708/LeetCODE/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
